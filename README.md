@@ -17,7 +17,22 @@ Streamline the **Verifiable Credentials issuance** process with the user-friendl
 * Create Issuer-User connections.
 * Issuer's UI.
 
----
+
+
+### Cambios implementados 
+
+Se agrego auto ejecutables con Go para la ejecucion sea configurable solo con este lenguaje
+ademas de utilizar las herramientas que se tienen a aplicar para las configuraciones 
+
+
+revisar estos archivos de configuracion antes de aplicar los cambios 
+puede causar que se detenga algunos servicios
+
+```Archivos
+setup-issureNode-Go.sh
+issuer-administrator.sh
+```
+
 
 ## Table of Contents
 - [Privado ID Issuer Node](#privado-id-issuer-node)
